@@ -1,0 +1,52 @@
+.header {
+  text-align: center;
+  border: solid 1px;
+  margin: auto;
+  padding: 1em;
+}
+
+/* grid DIV */
+.grid {
+  width: 30%;
+  height: 30%;
+  margin: auto;
+}
+.row-1 {
+  height: 150px;
+  width: 100%;
+  /*border: solid 1px;*/
+}
+.row-2 {
+  height: 150px;
+  width: 100%;
+  /*border: solid 1px;*/
+}
+.row-3 {
+  height: 150px;
+  width: 100%;
+  /*border: solid 1px;*/
+}
+.col-1 {
+  display: inline-block;
+  height: 150px;
+  width: 32%;
+  border: solid 1px;
+  margin: 0;
+  padding: 0;
+}
+.col-2 {
+  display: inline-block;
+  height: 100%;
+  width: 32%;
+  border: solid 1px;
+  margin: 0;
+  padding: 0;
+}
+.col-3 {
+  display: inline-block;
+  height: 100%;
+  width: 32%;
+  border: solid 1px;
+  margin: 0;
+  padding: 0;
+}
